@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @limadruga
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Eu tenho interesse em programação
+- 🌱 Eu atualemte estou aprendendo Java
+- 💞️ Eu estou apto a colaborar com projetos em Java
+- 📫 Fim
 
 <!---
 limadruga/limadruga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
